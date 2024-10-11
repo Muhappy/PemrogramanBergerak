@@ -1,0 +1,920 @@
+{
+  "name": "login_component",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "5QNpfTXnpb0k1sHngvhsid",
+    "node": "8:7936",
+    "version": "6824616968",
+    "component-id": "0810299ab99ee4ceeef9a051c598a6148f43e77d"
+  },
+  "default": "LoginComponent",
+  "documentation": "login component",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 448"
+      },
+      {
+        "type": "text",
+        "id": "AttendEase"
+      },
+      {
+        "type": "text",
+        "id": "Login"
+      },
+      {
+        "type": "group",
+        "id": "Pagination lines"
+      },
+      {
+        "type": "text",
+        "id": "Email"
+      },
+      {
+        "type": "text",
+        "id": "Kata Sandi"
+      },
+      {
+        "type": "group",
+        "id": "Button login"
+      },
+      {
+        "type": "group",
+        "id": "Password"
+      },
+      {
+        "type": "group",
+        "id": "EmailField"
+      },
+      {
+        "type": "group",
+        "id": "Drop Down"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 1442"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 1443"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 1444"
+      },
+      {
+        "type": "group",
+        "id": "Button"
+      },
+      {
+        "type": "text",
+        "id": "Bantuan?"
+      },
+      {
+        "type": "group",
+        "id": "plus-circle"
+      },
+      {
+        "type": "text",
+        "id": "Button label"
+      },
+      {
+        "type": "group",
+        "id": "plus-circle1"
+      },
+      {
+        "type": "vector",
+        "id": "Icon"
+      },
+      {
+        "type": "vector",
+        "id": "Icon1"
+      },
+      {
+        "type": "text",
+        "id": "Masukkan Pasword"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "text",
+        "id": "Masukkan Email"
+      },
+      {
+        "type": "text",
+        "id": "Pilih Role"
+      },
+      {
+        "type": "group",
+        "id": "Expand_down_light"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 9"
+      }
+    ],
+    "modes": {
+      "LoginComponent": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "Vector 448",
+              "AttendEase",
+              "Login",
+              "Pagination lines",
+              "Email",
+              "Kata Sandi",
+              "Button login",
+              "Password",
+              "EmailField",
+              "Drop Down"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Vector 448",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 768.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 1415.8896484375
+              }
+            },
+            "vector-content": "vector_448.svg"
+          },
+          {
+            "id": "AttendEase",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 36.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 81.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 318.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 100.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 44.39999999999999,
+              "saturation": 0.9049773755656109,
+              "value": 0.8666666666666667
+            },
+            "annotated-text-content": {
+              "text": "AttendEase",
+              "annotated-text-span-list": [
+                {
+                  "span-start": 0,
+                  "span-length": 6,
+                  "annotated-text-style": {
+                    "text-size": 35.0,
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 207.54098360655738,
+                      "saturation": 0.6224489795918368,
+                      "value": 0.7686274509803922
+                    }
+                  }
+                },
+                {
+                  "span-start": 6,
+                  "span-length": 4,
+                  "annotated-text-style": {
+                    "text-size": 35.0,
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 44.44444444444444,
+                      "saturation": 0.8470588235294118,
+                      "value": 1.0
+                    }
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 35.0,
+            "line-height": 0.4,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Login",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 112.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 194.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 166.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 61.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 207.23076923076923,
+              "saturation": 0.5118110236220472,
+              "value": 0.996078431372549
+            },
+            "text-content": "Login",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 35.0,
+            "line-height": 0.4,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Pagination lines",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 156.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 94.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 2.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 1442",
+              "Rectangle 1443",
+              "Rectangle 1444"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Email",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 31.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 381.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 325.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.09803921568627451
+            },
+            "text-content": "Email",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "line-height": 1.7142857360839843,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Kata Sandi",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 31.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 478.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 325.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.09803921568627451
+            },
+            "text-content": "Kata Sandi",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "line-height": 1.7142857360839843,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Button login",
+            "border-radius": 30.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 31.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 663.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 327.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Button",
+              "Bantuan?"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Password",
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 26.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 516.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 336.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 47.0
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 207.54098360655738,
+              "saturation": 0.6224489795918368,
+              "value": 0.7686274509803922
+            },
+            "is-structured": false,
+            "children": [
+              "Masukkan Pasword",
+              "Vector"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "clip-content": false
+          },
+          {
+            "id": "EmailField",
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 413.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 336.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 47.0
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 207.54098360655738,
+              "saturation": 0.6224489795918368,
+              "value": 0.7686274509803922
+            },
+            "is-structured": false,
+            "children": [
+              "Masukkan Email"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "clip-content": false
+          },
+          {
+            "id": "Drop Down",
+            "padding": {
+              "left": 20.0,
+              "top": 10.0,
+              "right": 20.0,
+              "bottom": 10.0
+            },
+            "border-radius": 6.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 282.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 336.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 44.0
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 207.23076923076923,
+              "saturation": 0.5118110236220472,
+              "value": 0.996078431372549
+            },
+            "arrangement": "row",
+            "main-axis-align": "space-between",
+            "children": [
+              "Pilih Role",
+              "Expand_down_light"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 210.00000000000014,
+              "saturation": 0.024590163934426257,
+              "value": 0.9568627450980393
+            },
+            "clip-content": false
+          },
+          {
+            "id": "Rectangle 1442",
+            "margin": {
+              "right": 68.0
+            },
+            "border-radius": 4.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_1442.svg"
+          },
+          {
+            "id": "Rectangle 1443",
+            "margin": {
+              "left": 34.0,
+              "right": 34.0
+            },
+            "border-radius": 4.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_1443.svg"
+          },
+          {
+            "id": "Rectangle 1444",
+            "margin": {
+              "left": 68.0
+            },
+            "border-radius": 4.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_1444.svg"
+          },
+          {
+            "id": "Button",
+            "padding": {
+              "left": 16.0,
+              "top": 12.0,
+              "right": 16.0,
+              "bottom": 12.0
+            },
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 327.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "plus-circle",
+              "Button label",
+              "plus-circle1"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 207.27272727272728,
+              "saturation": 0.6790123456790124,
+              "value": 0.6352941176470588
+            }
+          },
+          {
+            "id": "Bantuan?",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 77.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 64.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 173.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 216.42857142857144,
+              "saturation": 0.25,
+              "value": 0.4392156862745098
+            },
+            "text-content": "Bantuan?",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 16.0,
+            "letter-spacing": -0.32,
+            "line-height": 1.375,
+            "typeface": "Inter",
+            "underline": true
+          },
+          {
+            "id": "plus-circle",
+            "presence": false,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Icon"
+            ]
+          },
+          {
+            "id": "Button label",
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Masuk",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": 16.0,
+            "letter-spacing": -0.32,
+            "line-height": 1.375,
+            "typeface": "Inter"
+          },
+          {
+            "id": "plus-circle1",
+            "presence": false,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Icon1"
+            ]
+          },
+          {
+            "id": "Icon",
+            "margin": 3.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Icon1",
+            "margin": 3.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Masukkan Pasword",
+            "opacity": 0.5,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 17.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 325.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "font-weight": 100.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.09803921568627451
+            },
+            "text-content": "Masukkan Kata sandi",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "line-height": 1.7142857360839843,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": 298.0,
+              "top": 16.0,
+              "right": 16.0,
+              "bottom": 16.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Masukkan Email",
+            "opacity": 0.5,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 17.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 325.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "font-weight": 100.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.09803921568627451
+            },
+            "text-content": "Masukkan Email",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "line-height": 1.7142857360839843,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Pilih Role",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 192.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 300.0,
+            "text-content": "Pilih Role",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "line-height": 1.7142857360839843,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Expand_down_light",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector 9"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Vector 9",
+            "margin": {
+              "left": 8.999999868865835,
+              "top": 6.00000026226833,
+              "right": 9.000000131134165,
+              "bottom": 5.99999973773167
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -0.35351536273174133
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": -0.353515625
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_9.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "LoginComponent",
+      "size": {
+        "width": 390.0,
+        "height": 844.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

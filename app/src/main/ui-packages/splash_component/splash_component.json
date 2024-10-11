@@ -1,0 +1,486 @@
+{
+  "name": "splash_component",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "5QNpfTXnpb0k1sHngvhsid",
+    "node": "10:9472",
+    "version": "6826997349",
+    "component-id": "afe5ca7e7e0df2d81a4bf09fcffc3d53cae44035"
+  },
+  "default": "SplashComponent",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 4153"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 4154"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 4155"
+      },
+      {
+        "type": "text",
+        "id": "Buat Sistem Absensi Jadi Lebih Efisien"
+      },
+      {
+        "type": "text",
+        "id": "Mudah, Cepat, Tepat: Mulai Pencatatan Absensi Mahasiswa dengan Aplikasi AttendEase!"
+      },
+      {
+        "type": "image",
+        "id": "attendEase-removebg-preview 2"
+      },
+      {
+        "type": "group",
+        "id": "Group 18"
+      },
+      {
+        "type": "text",
+        "id": "AttendEase"
+      },
+      {
+        "type": "group",
+        "id": "Button"
+      },
+      {
+        "type": "group",
+        "id": "plus-circle"
+      },
+      {
+        "type": "text",
+        "id": "Button label"
+      },
+      {
+        "type": "group",
+        "id": "plus-circle1"
+      },
+      {
+        "type": "vector",
+        "id": "Icon"
+      },
+      {
+        "type": "vector",
+        "id": "Icon1"
+      }
+    ],
+    "modes": {
+      "SplashComponent": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "Rectangle 4153",
+              "Rectangle 4154",
+              "Rectangle 4155",
+              "Buat Sistem Absensi Jadi Lebih Efisien",
+              "Mudah, Cepat, Tepat: Mulai Pencatatan Absensi Mahasiswa dengan Aplikasi AttendEase!",
+              "attendEase-removebg-preview 2",
+              "Group 18",
+              "AttendEase"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Rectangle 4153",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -100.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 95.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 844.0
+              }
+            },
+            "vector-content": "rectangle_4153.svg"
+          },
+          {
+            "id": "Rectangle 4154",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 395.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 95.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 844.0
+              }
+            },
+            "vector-content": "rectangle_4154.svg"
+          },
+          {
+            "id": "Rectangle 4155",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 390.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 844.0
+              }
+            },
+            "vector-content": "rectangle_4155.svg"
+          },
+          {
+            "id": "Buat Sistem Absensi Jadi Lebih Efisien",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 71.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 429.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 255.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 97.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 207.23076923076923,
+              "saturation": 0.5118110236220472,
+              "value": 0.996078431372549
+            },
+            "text-content": "Buat Sistem Absensi\nJadi Lebih Efisien",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 25.0,
+            "line-height": 1.2,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Mudah, Cepat, Tepat: Mulai Pencatatan Absensi Mahasiswa dengan Aplikasi AttendEase!",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 494.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 397.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 105.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Mudah, Cepat, Tepat: Mulai Pencatatan \nAbsensi Mahasiswa dengan Aplikasi AttendEase!",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 15.0,
+            "line-height": 0.9333333587646484,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "attendEase-removebg-preview 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 60.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 71.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 270.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 268.0
+              }
+            },
+            "image-content": "attend_ease_removebg_preview_2.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Group 18",
+            "border-radius": 30.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 31.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 663.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 327.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Button"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "AttendEase",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 36.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 329.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 318.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 100.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 44.39999999999999,
+              "saturation": 0.9049773755656109,
+              "value": 0.8666666666666667
+            },
+            "annotated-text-content": {
+              "text": "AttendEase",
+              "annotated-text-span-list": [
+                {
+                  "span-start": 0,
+                  "span-length": 6,
+                  "annotated-text-style": {
+                    "text-size": 50.0,
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 207.54098360655738,
+                      "saturation": 0.6224489795918368,
+                      "value": 0.7686274509803922
+                    }
+                  }
+                },
+                {
+                  "span-start": 6,
+                  "span-length": 4,
+                  "annotated-text-style": {
+                    "text-size": 50.0,
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 0.0,
+                      "saturation": 0.0,
+                      "value": 1.0
+                    }
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 50.0,
+            "line-height": 0.28,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Button",
+            "padding": {
+              "left": 16.0,
+              "top": 12.0,
+              "right": 16.0,
+              "bottom": 12.0
+            },
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 327.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "plus-circle",
+              "Button label",
+              "plus-circle1"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 220.00000000000009,
+              "saturation": 0.024590163934426257,
+              "value": 0.9568627450980393
+            }
+          },
+          {
+            "id": "plus-circle",
+            "presence": false,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Icon"
+            ]
+          },
+          {
+            "id": "Button label",
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 43.06930693069306,
+              "saturation": 0.8211382113821138,
+              "value": 0.9647058823529412
+            },
+            "text-content": "Get Started",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": 16.0,
+            "letter-spacing": -0.32,
+            "line-height": 1.375,
+            "typeface": "Inter"
+          },
+          {
+            "id": "plus-circle1",
+            "presence": false,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Icon1"
+            ]
+          },
+          {
+            "id": "Icon",
+            "margin": 3.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Icon1",
+            "margin": 3.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "SplashComponent",
+      "size": {
+        "width": 390.0,
+        "height": 844.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
