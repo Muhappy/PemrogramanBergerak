@@ -1,0 +1,3222 @@
+{
+  "name": "fakultas",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "5QNpfTXnpb0k1sHngvhsid",
+    "node": "10:10393",
+    "version": "6827498149",
+    "component-id": "35c7981cf9419ead399a61b53c5c8dfdbf7bd538"
+  },
+  "default": "Fakultas",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Arrow_left"
+      },
+      {
+        "type": "group",
+        "id": "Search"
+      },
+      {
+        "type": "text",
+        "id": "Enroll Kelas"
+      },
+      {
+        "type": "group",
+        "id": "Frame pilih fakultas"
+      },
+      {
+        "type": "group",
+        "id": "pilih fakultas"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 9"
+      },
+      {
+        "type": "text",
+        "id": "Cari Mata Kuliah"
+      },
+      {
+        "type": "vector",
+        "id": "Icon"
+      },
+      {
+        "type": "group",
+        "id": "Frame 11982"
+      },
+      {
+        "type": "text",
+        "id": "Pilih Fakultas"
+      },
+      {
+        "type": "text",
+        "id": "Buka detail untuk informasi lebih lanjut"
+      },
+      {
+        "type": "group",
+        "id": "FE"
+      },
+      {
+        "type": "group",
+        "id": "FASILKOM"
+      },
+      {
+        "type": "group",
+        "id": "FH"
+      },
+      {
+        "type": "group",
+        "id": "FK"
+      },
+      {
+        "type": "group",
+        "id": "FT"
+      },
+      {
+        "type": "group",
+        "id": "FP"
+      },
+      {
+        "type": "group",
+        "id": "FKIP"
+      },
+      {
+        "type": "group",
+        "id": "FISIP"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 15481"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 15482"
+      },
+      {
+        "type": "group",
+        "id": "Group 162961"
+      },
+      {
+        "type": "group",
+        "id": "Frame 11980"
+      },
+      {
+        "type": "group",
+        "id": "Frame 11937"
+      },
+      {
+        "type": "group",
+        "id": "schedule"
+      },
+      {
+        "type": "group",
+        "id": "Group 1"
+      },
+      {
+        "type": "image",
+        "id": "logo Unsri 1"
+      },
+      {
+        "type": "group",
+        "id": "Frame 11979"
+      },
+      {
+        "type": "group",
+        "id": "Frame 11976"
+      },
+      {
+        "type": "text",
+        "id": "Fakultas Ekonomi"
+      },
+      {
+        "type": "group",
+        "id": "Frame 11978"
+      },
+      {
+        "type": "text",
+        "id": "Lihat mata kuliah pada fakultasi ini"
+      },
+      {
+        "type": "vector",
+        "id": "oiuytre"
+      },
+      {
+        "type": "vector",
+        "id": "iushdichsdic"
+      },
+      {
+        "type": "group",
+        "id": "jhgfds"
+      },
+      {
+        "type": "group",
+        "id": "kcdsc"
+      },
+      {
+        "type": "group",
+        "id": "oiuy"
+      },
+      {
+        "type": "group",
+        "id": "shab ak"
+      },
+      {
+        "type": "group",
+        "id": ",snac ac"
+      },
+      {
+        "type": "image",
+        "id": "hrbg vd"
+      },
+      {
+        "type": "group",
+        "id": "jcsc s"
+      },
+      {
+        "type": "group",
+        "id": "jlcklsdjnc"
+      },
+      {
+        "type": "text",
+        "id": "Fakultas Ilmu Komputer"
+      },
+      {
+        "type": "group",
+        "id": "jdcb c"
+      },
+      {
+        "type": "text",
+        "id": "l ns s s"
+      },
+      {
+        "type": "vector",
+        "id": "kd sd snd "
+      },
+      {
+        "type": "vector",
+        "id": "kldncsdj cs"
+      },
+      {
+        "type": "group",
+        "id": "kdncs cs nc"
+      },
+      {
+        "type": "group",
+        "id": "kcjknac"
+      },
+      {
+        "type": "group",
+        "id": "kdn sljdn s"
+      },
+      {
+        "type": "group",
+        "id": "kld nsj "
+      },
+      {
+        "type": "group",
+        "id": "ljbc kjsb "
+      },
+      {
+        "type": "image",
+        "id": "jlcnjlqcn"
+      },
+      {
+        "type": "group",
+        "id": "jacbbc"
+      },
+      {
+        "type": "group",
+        "id": "qeuqije"
+      },
+      {
+        "type": "text",
+        "id": "Fakultas Hukum"
+      },
+      {
+        "type": "group",
+        "id": "jdacbb "
+      },
+      {
+        "type": "text",
+        "id": "liaskcblajcb"
+      },
+      {
+        "type": "vector",
+        "id": "kliadhncanc"
+      },
+      {
+        "type": "vector",
+        "id": "kabcabc"
+      },
+      {
+        "type": "group",
+        "id": "jcsba, "
+      },
+      {
+        "type": "group",
+        "id": "ajcajcb"
+      },
+      {
+        "type": "group",
+        "id": "liwhcac"
+      },
+      {
+        "type": "group",
+        "id": "jacba c"
+      },
+      {
+        "type": "group",
+        "id": "jadc  a c"
+      },
+      {
+        "type": "image",
+        "id": "a,c nn,a can "
+      },
+      {
+        "type": "group",
+        "id": "ldakcjanc"
+      },
+      {
+        "type": "group",
+        "id": "jaksbcajc"
+      },
+      {
+        "type": "text",
+        "id": "jlacbac "
+      },
+      {
+        "type": "group",
+        "id": "ljacba cbb"
+      },
+      {
+        "type": "text",
+        "id": "ladicjqw"
+      },
+      {
+        "type": "vector",
+        "id": "alcna c"
+      },
+      {
+        "type": "vector",
+        "id": "ambc an"
+      },
+      {
+        "type": "group",
+        "id": "jashuqw]"
+      },
+      {
+        "type": "group",
+        "id": "kjadjcbacb"
+      },
+      {
+        "type": "group",
+        "id": "iqejfhc"
+      },
+      {
+        "type": "group",
+        "id": "kcna"
+      },
+      {
+        "type": "group",
+        "id": "l;cm;ac"
+      },
+      {
+        "type": "image",
+        "id": "uwdhqfjc"
+      },
+      {
+        "type": "group",
+        "id": "kdanc a c"
+      },
+      {
+        "type": "group",
+        "id": "jncjcdjcn"
+      },
+      {
+        "type": "text",
+        "id": "dkncaknca"
+      },
+      {
+        "type": "group",
+        "id": "kadncacn"
+      },
+      {
+        "type": "text",
+        "id": "lacnalnc"
+      },
+      {
+        "type": "vector",
+        "id": "ljsacbabc "
+      },
+      {
+        "type": "vector",
+        "id": "jakscbajbc"
+      },
+      {
+        "type": "group",
+        "id": "ashcbac b"
+      },
+      {
+        "type": "group",
+        "id": "jasc anc "
+      },
+      {
+        "type": "group",
+        "id": "jascbhbac"
+      },
+      {
+        "type": "group",
+        "id": "ajcbc"
+      },
+      {
+        "type": "group",
+        "id": "lajscba c"
+      },
+      {
+        "type": "image",
+        "id": "woduyqwgdb"
+      },
+      {
+        "type": "group",
+        "id": "jwsahcva"
+      },
+      {
+        "type": "group",
+        "id": "jalcb"
+      },
+      {
+        "type": "text",
+        "id": "AJSCNHLAJC"
+      },
+      {
+        "type": "group",
+        "id": "idknc"
+      },
+      {
+        "type": "text",
+        "id": "djlc  a"
+      },
+      {
+        "type": "vector",
+        "id": "dalcbac"
+      },
+      {
+        "type": "vector",
+        "id": "uecg"
+      },
+      {
+        "type": "group",
+        "id": "hdakcb"
+      },
+      {
+        "type": "group",
+        "id": "asljcbbacs"
+      },
+      {
+        "type": "group",
+        "id": "kadc nacn"
+      },
+      {
+        "type": "group",
+        "id": "mac anc "
+      },
+      {
+        "type": "group",
+        "id": "wkncjan"
+      },
+      {
+        "type": "image",
+        "id": "ascnac "
+      },
+      {
+        "type": "group",
+        "id": "sbchbcas"
+      },
+      {
+        "type": "group",
+        "id": "jdacbhabc"
+      },
+      {
+        "type": "text",
+        "id": "Fakultas FKIP"
+      },
+      {
+        "type": "group",
+        "id": "jca c"
+      },
+      {
+        "type": "text",
+        "id": "sajcbac"
+      },
+      {
+        "type": "vector",
+        "id": "ndcnanc"
+      },
+      {
+        "type": "vector",
+        "id": "ajncacn"
+      },
+      {
+        "type": "group",
+        "id": "ajkcbbca"
+      },
+      {
+        "type": "group",
+        "id": "akhcbacb"
+      },
+      {
+        "type": "group",
+        "id": "alchcba"
+      },
+      {
+        "type": "group",
+        "id": "lacbajc"
+      },
+      {
+        "type": "group",
+        "id": "lkashcac"
+      },
+      {
+        "type": "image",
+        "id": "8765rt\\"
+      },
+      {
+        "type": "group",
+        "id": ";sknca"
+      },
+      {
+        "type": "group",
+        "id": "ljacabc"
+      },
+      {
+        "type": "text",
+        "id": "Fakultas FISIP"
+      },
+      {
+        "type": "group",
+        "id": "ancnja,nc"
+      },
+      {
+        "type": "text",
+        "id": "a,dalc'apckihat mata kuliah pada fakultasi ini"
+      }
+    ],
+    "modes": {
+      "Fakultas": {
+        "rules": [
+          {
+            "id": "top_level",
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "is-structured": false,
+            "children": [
+              "Arrow_left",
+              "Search",
+              "Enroll Kelas",
+              "Frame pilih fakultas",
+              "pilih fakultas"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Arrow_left",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 31.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 60.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector 9"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Search",
+            "padding": 10.0,
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 32.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 116.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 325.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 35.0
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 207.23076923076923,
+              "saturation": 0.5118110236220472,
+              "value": 0.996078431372549
+            },
+            "arrangement": "row",
+            "main-axis-align": "space-between",
+            "children": [
+              "Cari Mata Kuliah",
+              "Icon"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Enroll Kelas",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 61.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 43.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 188.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 50.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 207.54098360655738,
+              "saturation": 0.6224489795918368,
+              "value": 0.7686274509803922
+            },
+            "text-content": "Enroll Kelas",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": 20.0,
+            "line-height": 0.7,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Frame pilih fakultas",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 16.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 173.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 56.0
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Frame 11982"
+            ],
+            "item-spacing": 16.0,
+            "scrollable": true
+          },
+          {
+            "id": "pilih fakultas",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 219.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 1007.0
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "FE",
+              "FASILKOM",
+              "FH",
+              "FK",
+              "FT",
+              "FP",
+              "FKIP",
+              "FISIP"
+            ],
+            "item-spacing": 9.0
+          },
+          {
+            "id": "Vector 9",
+            "margin": {
+              "left": 4.0,
+              "top": 6.0,
+              "right": 5.0,
+              "bottom": 6.0
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -1.4141845703125
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": -0.70703125
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_9.svg"
+          },
+          {
+            "id": "Cari Mata Kuliah",
+            "font-weight": 100.0,
+            "text-content": "Cari Mata Kuliah",
+            "overflow": "visible",
+            "line-height": 1.7142857360839843,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Icon",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -1.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": -1.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 15.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 15.0
+              }
+            },
+            "vector-content": "icon.svg"
+          },
+          {
+            "id": "Frame 11982",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Pilih Fakultas",
+              "Buka detail untuk informasi lebih lanjut"
+            ]
+          },
+          {
+            "id": "Pilih Fakultas",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 319.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 700.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 209.58904109589042,
+              "saturation": 1.0,
+              "value": 0.28627450980392155
+            },
+            "text-content": "Pilih Fakultas",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 18.0,
+            "line-height": 1.26000001695421,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Buka detail untuk informasi lebih lanjut",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 265.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.5372549019607843
+            },
+            "text-content": "Buka detail untuk informasi lebih lanjut",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.25,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "FE",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 15481",
+              "Rectangle 15482",
+              "Group 162961",
+              "Frame 11980"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "FASILKOM",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "oiuytre",
+              "iushdichsdic",
+              "jhgfds",
+              "kcdsc"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "FH",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "kd sd snd ",
+              "kldncsdj cs",
+              "kdncs cs nc",
+              "kcjknac"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "FK",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "kliadhncanc",
+              "kabcabc",
+              "jcsba, ",
+              "ajcajcb"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "FT",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "alcna c",
+              "ambc an",
+              "jashuqw]",
+              "kjadjcbacb"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "FP",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "ljsacbabc ",
+              "jakscbajbc",
+              "ashcbac b",
+              "jasc anc "
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "FKIP",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "dalcbac",
+              "uecg",
+              "hdakcb",
+              "asljcbbacs"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "FISIP",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "ndcnanc",
+              "ajncacn",
+              "ajkcbbca",
+              "akhcbacb"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Rectangle 15481",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "rectangle_15481.svg"
+          },
+          {
+            "id": "Rectangle 15482",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "rectangle_15482.svg"
+          },
+          {
+            "id": "Group 162961",
+            "border-radius": 20.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 19.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Frame 11937"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Frame 11980",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 102.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Frame 11979",
+              "Frame 11976"
+            ],
+            "item-spacing": -4.0,
+            "clip-content": false
+          },
+          {
+            "id": "Frame 11937",
+            "padding": 19.0,
+            "border-radius": 20.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "stroke-width": 2.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 57.990430622009576,
+              "saturation": 0.9812206572769953,
+              "value": 0.8352941176470589
+            },
+            "children": [
+              "schedule"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 60.0,
+              "saturation": 0.9647058823529412,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "schedule",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Group 1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Group 1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "logo Unsri 1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "logo Unsri 1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "image-content": "logo_unsri_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Frame 11979",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Fakultas Ekonomi",
+              "Frame 11978"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Frame 11976",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 242.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink",
+                "min": 28.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "end",
+            "item-spacing": 92.0,
+            "clip-content": false
+          },
+          {
+            "id": "Fakultas Ekonomi",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 222.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 221.05263157894737,
+              "saturation": 0.5428571428571429,
+              "value": 0.13725490196078433
+            },
+            "text-content": "Fakultas Ekonomi",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "Frame 11978",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Lihat mata kuliah pada fakultasi ini"
+            ],
+            "item-spacing": 18.0,
+            "clip-content": false
+          },
+          {
+            "id": "Lihat mata kuliah pada fakultasi ini",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 141.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 224.68085106382978,
+              "saturation": 0.29559748427672955,
+              "value": 0.6235294117647059
+            },
+            "text-content": "Lihat mata kuliah pada fakultasi ini",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "oiuytre",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "oiuytre.svg"
+          },
+          {
+            "id": "iushdichsdic",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "iushdichsdic.svg"
+          },
+          {
+            "id": "jhgfds",
+            "border-radius": 20.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 19.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "oiuy"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "kcdsc",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 102.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "jcsc s",
+              "jlcklsdjnc"
+            ],
+            "item-spacing": -4.0,
+            "clip-content": false
+          },
+          {
+            "id": "oiuy",
+            "padding": 19.0,
+            "border-radius": 20.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "stroke-width": 2.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.803921568627451
+            },
+            "children": [
+              "shab ak"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.803921568627451
+            }
+          },
+          {
+            "id": "shab ak",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              ",snac ac"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": ",snac ac",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "hrbg vd"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "hrbg vd",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "image-content": "logo_unsri_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "jcsc s",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Fakultas Ilmu Komputer",
+              "jdcb c"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "jlcklsdjnc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 242.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink",
+                "min": 28.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "end",
+            "item-spacing": 92.0,
+            "clip-content": false
+          },
+          {
+            "id": "Fakultas Ilmu Komputer",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 222.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 221.05263157894737,
+              "saturation": 0.5428571428571429,
+              "value": 0.13725490196078433
+            },
+            "text-content": "Fakultas Ilmu Komputer",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "jdcb c",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "l ns s s"
+            ],
+            "item-spacing": 18.0,
+            "clip-content": false
+          },
+          {
+            "id": "l ns s s",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 141.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 224.68085106382978,
+              "saturation": 0.29559748427672955,
+              "value": 0.6235294117647059
+            },
+            "text-content": "Lihat mata kuliah pada fakultasi ini",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "kd sd snd ",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "kd_sd_snd_.svg"
+          },
+          {
+            "id": "kldncsdj cs",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "kldncsdj_cs.svg"
+          },
+          {
+            "id": "kdncs cs nc",
+            "border-radius": 20.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 19.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "kdn sljdn s"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "kcjknac",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 102.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "jacbbc",
+              "qeuqije"
+            ],
+            "item-spacing": -4.0,
+            "clip-content": false
+          },
+          {
+            "id": "kdn sljdn s",
+            "padding": 19.0,
+            "border-radius": 20.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "stroke-width": 2.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 359.70588235294116,
+              "saturation": 1.0,
+              "value": 0.8
+            },
+            "children": [
+              "kld nsj "
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 359.70588235294116,
+              "saturation": 1.0,
+              "value": 0.8
+            }
+          },
+          {
+            "id": "kld nsj ",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "ljbc kjsb "
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "ljbc kjsb ",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "jlcnjlqcn"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "jlcnjlqcn",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "image-content": "logo_unsri_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "jacbbc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Fakultas Hukum",
+              "jdacbb "
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "qeuqije",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 242.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink",
+                "min": 28.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "end",
+            "item-spacing": 92.0,
+            "clip-content": false
+          },
+          {
+            "id": "Fakultas Hukum",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 222.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 221.05263157894737,
+              "saturation": 0.5428571428571429,
+              "value": 0.13725490196078433
+            },
+            "text-content": "Fakultas Hukum",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "jdacbb ",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "liaskcblajcb"
+            ],
+            "item-spacing": 18.0,
+            "clip-content": false
+          },
+          {
+            "id": "liaskcblajcb",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 141.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 224.68085106382978,
+              "saturation": 0.29559748427672955,
+              "value": 0.6235294117647059
+            },
+            "text-content": "Lihat mata kuliah pada fakultasi ini",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "kliadhncanc",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "kliadhncanc.svg"
+          },
+          {
+            "id": "kabcabc",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "kabcabc.svg"
+          },
+          {
+            "id": "jcsba, ",
+            "border-radius": 20.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 19.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "liwhcac"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "ajcajcb",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 102.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "ldakcjanc",
+              "jaksbcajc"
+            ],
+            "item-spacing": -4.0,
+            "clip-content": false
+          },
+          {
+            "id": "liwhcac",
+            "padding": 19.0,
+            "border-radius": 20.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "stroke-width": 2.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 150.58823529411765,
+              "saturation": 0.9902912621359223,
+              "value": 0.403921568627451
+            },
+            "children": [
+              "jacba c"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 150.58823529411765,
+              "saturation": 0.9902912621359223,
+              "value": 0.403921568627451
+            }
+          },
+          {
+            "id": "jacba c",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "jadc  a c"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "jadc  a c",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "a,c nn,a can "
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "a,c nn,a can ",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "image-content": "logo_unsri_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "ldakcjanc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "jlacbac ",
+              "ljacba cbb"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "jaksbcajc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 242.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink",
+                "min": 28.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "end",
+            "item-spacing": 92.0,
+            "clip-content": false
+          },
+          {
+            "id": "jlacbac ",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 222.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 221.05263157894737,
+              "saturation": 0.5428571428571429,
+              "value": 0.13725490196078433
+            },
+            "text-content": "Fakultas Kedokteran",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "ljacba cbb",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "ladicjqw"
+            ],
+            "item-spacing": 18.0,
+            "clip-content": false
+          },
+          {
+            "id": "ladicjqw",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 141.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 224.68085106382978,
+              "saturation": 0.29559748427672955,
+              "value": 0.6235294117647059
+            },
+            "text-content": "Lihat mata kuliah pada fakultasi ini",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "alcna c",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "alcna_c.svg"
+          },
+          {
+            "id": "ambc an",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "ambc_an.svg"
+          },
+          {
+            "id": "jashuqw]",
+            "border-radius": 20.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 19.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "iqejfhc"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "kjadjcbacb",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 102.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "kdanc a c",
+              "jncjcdjcn"
+            ],
+            "item-spacing": -4.0,
+            "clip-content": false
+          },
+          {
+            "id": "iqejfhc",
+            "padding": 19.0,
+            "border-radius": 20.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "stroke-width": 2.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 315.0738916256158,
+              "saturation": 0.9950980392156863,
+              "value": 0.8
+            },
+            "children": [
+              "kcna"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 315.0738916256158,
+              "saturation": 0.9950980392156863,
+              "value": 0.8
+            }
+          },
+          {
+            "id": "kcna",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "l;cm;ac"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "l;cm;ac",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "uwdhqfjc"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "uwdhqfjc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "image-content": "logo_unsri_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "kdanc a c",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "dkncaknca",
+              "kadncacn"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "jncjcdjcn",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 242.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink",
+                "min": 28.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "end",
+            "item-spacing": 92.0,
+            "clip-content": false
+          },
+          {
+            "id": "dkncaknca",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 222.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 221.05263157894737,
+              "saturation": 0.5428571428571429,
+              "value": 0.13725490196078433
+            },
+            "text-content": "Fakultas Teknik",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "kadncacn",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "lacnalnc"
+            ],
+            "item-spacing": 18.0,
+            "clip-content": false
+          },
+          {
+            "id": "lacnalnc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 141.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 224.68085106382978,
+              "saturation": 0.29559748427672955,
+              "value": 0.6235294117647059
+            },
+            "text-content": "Lihat mata kuliah pada fakultasi ini",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "ljsacbabc ",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "ljsacbabc_.svg"
+          },
+          {
+            "id": "jakscbajbc",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "jakscbajbc.svg"
+          },
+          {
+            "id": "ashcbac b",
+            "border-radius": 20.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 19.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "jascbhbac"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "jasc anc ",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 102.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "jwsahcva",
+              "jalcb"
+            ],
+            "item-spacing": -4.0,
+            "clip-content": false
+          },
+          {
+            "id": "jascbhbac",
+            "padding": 19.0,
+            "border-radius": 20.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "stroke-width": 2.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 125.68421052631578,
+              "saturation": 0.9947643979057592,
+              "value": 0.7490196078431373
+            },
+            "children": [
+              "ajcbc"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 125.68421052631578,
+              "saturation": 0.9947643979057592,
+              "value": 0.7490196078431373
+            }
+          },
+          {
+            "id": "ajcbc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "lajscba c"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "lajscba c",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "woduyqwgdb"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "woduyqwgdb",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "image-content": "logo_unsri_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "jwsahcva",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "AJSCNHLAJC",
+              "idknc"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "jalcb",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 242.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink",
+                "min": 28.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "end",
+            "item-spacing": 92.0,
+            "clip-content": false
+          },
+          {
+            "id": "AJSCNHLAJC",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 222.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 221.05263157894737,
+              "saturation": 0.5428571428571429,
+              "value": 0.13725490196078433
+            },
+            "text-content": "Fakultas Pertanian",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "idknc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "djlc  a"
+            ],
+            "item-spacing": 18.0,
+            "clip-content": false
+          },
+          {
+            "id": "djlc  a",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 141.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 224.68085106382978,
+              "saturation": 0.29559748427672955,
+              "value": 0.6235294117647059
+            },
+            "text-content": "Lihat mata kuliah pada fakultasi ini",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "dalcbac",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "dalcbac.svg"
+          },
+          {
+            "id": "uecg",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "uecg.svg"
+          },
+          {
+            "id": "hdakcb",
+            "border-radius": 20.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 19.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "kadc nacn"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "asljcbbacs",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 102.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "sbchbcas",
+              "jdacbhabc"
+            ],
+            "item-spacing": -4.0,
+            "clip-content": false
+          },
+          {
+            "id": "kadc nacn",
+            "padding": 19.0,
+            "border-radius": 20.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "stroke-width": 2.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 219.74025974025975,
+              "saturation": 0.7549019607843138,
+              "value": 0.8
+            },
+            "children": [
+              "mac anc "
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 219.74025974025975,
+              "saturation": 0.7549019607843138,
+              "value": 0.8
+            }
+          },
+          {
+            "id": "mac anc ",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "wkncjan"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "wkncjan",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "ascnac "
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "ascnac ",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "image-content": "logo_unsri_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "sbchbcas",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Fakultas FKIP",
+              "jca c"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "jdacbhabc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 242.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink",
+                "min": 28.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "end",
+            "item-spacing": 92.0,
+            "clip-content": false
+          },
+          {
+            "id": "Fakultas FKIP",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 222.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 221.05263157894737,
+              "saturation": 0.5428571428571429,
+              "value": 0.13725490196078433
+            },
+            "text-content": "Fakultas FKIP",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "jca c",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "sajcbac"
+            ],
+            "item-spacing": 18.0,
+            "clip-content": false
+          },
+          {
+            "id": "sajcbac",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 141.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 224.68085106382978,
+              "saturation": 0.29559748427672955,
+              "value": 0.6235294117647059
+            },
+            "text-content": "Lihat mata kuliah pada fakultasi ini",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "ndcnanc",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "ndcnanc.svg"
+          },
+          {
+            "id": "ajncacn",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 358.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              }
+            },
+            "vector-content": "ajncacn.svg"
+          },
+          {
+            "id": "ajkcbbca",
+            "border-radius": 20.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 19.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "alchcba"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "akhcbacb",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 102.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              ";sknca",
+              "ljacabc"
+            ],
+            "item-spacing": -4.0,
+            "clip-content": false
+          },
+          {
+            "id": "alchcba",
+            "padding": 19.0,
+            "border-radius": 20.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "stroke-width": 2.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 330.0,
+              "saturation": 0.3937007874015748,
+              "value": 0.996078431372549
+            },
+            "children": [
+              "lacbajc"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 330.0,
+              "saturation": 0.3937007874015748,
+              "value": 0.996078431372549
+            }
+          },
+          {
+            "id": "lacbajc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "lkashcac"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "lkashcac",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "8765rt\\"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "8765rt\\",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.0
+              }
+            },
+            "image-content": "logo_unsri_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": ";sknca",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Fakultas FISIP",
+              "ancnja,nc"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "ljacabc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 242.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink",
+                "min": 28.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "end",
+            "item-spacing": 92.0,
+            "clip-content": false
+          },
+          {
+            "id": "Fakultas FISIP",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 222.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 221.05263157894737,
+              "saturation": 0.5428571428571429,
+              "value": 0.13725490196078433
+            },
+            "text-content": "Fakultas FISIP",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          },
+          {
+            "id": "ancnja,nc",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "a,dalc'apckihat mata kuliah pada fakultasi ini"
+            ],
+            "item-spacing": 18.0,
+            "clip-content": false
+          },
+          {
+            "id": "a,dalc'apckihat mata kuliah pada fakultasi ini",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 141.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 224.68085106382978,
+              "saturation": 0.29559748427672955,
+              "value": 0.6235294117647059
+            },
+            "text-content": "Lihat mata kuliah pada fakultasi ini",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2599999904632568,
+            "typeface": "Outfit"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Fakultas",
+      "size": {
+        "width": 390.0,
+        "height": 873.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

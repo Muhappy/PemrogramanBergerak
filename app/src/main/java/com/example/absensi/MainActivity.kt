@@ -12,6 +12,8 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.example.absensi.fakultas.Fakultas
+import com.example.absensi.landingcomponent.LandingComponent
 import com.example.absensi.logincomponent.LoginComponent
 import com.example.absensi.profilecomponent.ProfileComponent
 import com.example.absensi.splashcomponent.SplashComponent
@@ -27,7 +29,9 @@ class MainActivity : ComponentActivity() {
                 Scaffold(modifier = Modifier.fillMaxSize()) {
 //                   LoginComponent()
 //                   SplashComponent()
-                    ProfileComponent()
+//                    ProfileComponent()
+//                    Fakultas()
+                    LandingComponent()
                 }
             }
         }
@@ -41,6 +45,8 @@ fun GreetingPreview() {
     AbsensiTheme {
 //   LoginComponent()
 //     SplashComponent()
-        ProfileComponent()
+//        ProfileComponent()
+//        Fakultas()
+        LandingComponent()
     }
 }
