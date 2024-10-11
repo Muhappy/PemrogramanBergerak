@@ -13,6 +13,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.absensi.logincomponent.LoginComponent
+import com.example.absensi.profilecomponent.ProfileComponent
 import com.example.absensi.splashcomponent.SplashComponent
 import com.example.absensi.ui.theme.AbsensiTheme
 
@@ -25,7 +26,8 @@ class MainActivity : ComponentActivity() {
             AbsensiTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) {
 //                   LoginComponent()
-                   SplashComponent()
+//                   SplashComponent()
+                    ProfileComponent()
                 }
             }
         }
@@ -38,6 +40,7 @@ class MainActivity : ComponentActivity() {
 fun GreetingPreview() {
     AbsensiTheme {
 //   LoginComponent()
-     SplashComponent()
+//     SplashComponent()
+        ProfileComponent()
     }
 }
