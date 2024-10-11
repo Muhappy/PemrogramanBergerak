@@ -24,8 +24,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             AbsensiTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) {
-                   LoginComponent()
-//                    SplashComponent()
+//                   LoginComponent()
+                   SplashComponent()
                 }
             }
         }
@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun GreetingPreview() {
     AbsensiTheme {
-   LoginComponent()
-//        SplashComponent()
+//   LoginComponent()
+     SplashComponent()
     }
 }
